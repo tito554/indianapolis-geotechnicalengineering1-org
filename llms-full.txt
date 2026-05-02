@@ -1,0 +1,51 @@
+# Geotechnicalengineering1 — Indianapolis
+
+> Geotechnical engineering services in Indianapolis, United States.
+
+## Services
+- [Anchors](https://indianapolis.geotechnicalengineering1.org/anchors/)
+- [Atterberg Limits](https://indianapolis.geotechnicalengineering1.org/atterberg-limits/)
+- [Cbr Road](https://indianapolis.geotechnicalengineering1.org/cbr-road/)
+- [Cpt Test](https://indianapolis.geotechnicalengineering1.org/cpt-test/)
+- [Deep Excavations](https://indianapolis.geotechnicalengineering1.org/deep-excavations/)
+- [Excavation Monitoring](https://indianapolis.geotechnicalengineering1.org/excavation-monitoring/)
+- [Excavations](https://indianapolis.geotechnicalengineering1.org/excavations/)
+- [Flexible Pavement](https://indianapolis.geotechnicalengineering1.org/flexible-pavement/)
+- [Footings](https://indianapolis.geotechnicalengineering1.org/footings/)
+- [Foundations](https://indianapolis.geotechnicalengineering1.org/foundations/)
+- [Grain Size](https://indianapolis.geotechnicalengineering1.org/grain-size/)
+- [Ground Improvement](https://indianapolis.geotechnicalengineering1.org/ground-improvement/)
+- [Grouting](https://indianapolis.geotechnicalengineering1.org/grouting/)
+- [In Situ Permeability](https://indianapolis.geotechnicalengineering1.org/in-situ-permeability/)
+- [Investigation](https://indianapolis.geotechnicalengineering1.org/investigation/)
+- [Lab In Situ](https://indianapolis.geotechnicalengineering1.org/lab-in-situ/)
+- [Laboratory](https://indianapolis.geotechnicalengineering1.org/laboratory/)
+- [Liquefaction](https://indianapolis.geotechnicalengineering1.org/liquefaction/)
+- [Masw](https://indianapolis.geotechnicalengineering1.org/masw/)
+- [Mat Foundations](https://indianapolis.geotechnicalengineering1.org/mat-foundations/)
+- [Piles](https://indianapolis.geotechnicalengineering1.org/piles/)
+- [Proctor Tests](https://indianapolis.geotechnicalengineering1.org/proctor-tests/)
+- [Resistivity](https://indianapolis.geotechnicalengineering1.org/resistivity/)
+- [Retaining Walls](https://indianapolis.geotechnicalengineering1.org/retaining-walls/)
+- [Rigid Pavement](https://indianapolis.geotechnicalengineering1.org/rigid-pavement/)
+- [Road Geotechnics](https://indianapolis.geotechnicalengineering1.org/road-geotechnics/)
+- [Sand Cone Density](https://indianapolis.geotechnicalengineering1.org/sand-cone-density/)
+- [Seismic](https://indianapolis.geotechnicalengineering1.org/seismic/)
+- [Seismic Isolation](https://indianapolis.geotechnicalengineering1.org/seismic-isolation/)
+- [Seismic Microzonation](https://indianapolis.geotechnicalengineering1.org/seismic-microzonation/)
+- [Seismic Refraction](https://indianapolis.geotechnicalengineering1.org/seismic-refraction/)
+- [Slope Stability](https://indianapolis.geotechnicalengineering1.org/slope-stability/)
+- [Slopes](https://indianapolis.geotechnicalengineering1.org/slopes/)
+- [Soft Ground Tunnels](https://indianapolis.geotechnicalengineering1.org/soft-ground-tunnels/)
+- [Spt Drilling](https://indianapolis.geotechnicalengineering1.org/spt-drilling/)
+- [Stone Columns](https://indianapolis.geotechnicalengineering1.org/stone-columns/)
+- [Test Pits](https://indianapolis.geotechnicalengineering1.org/test-pits/)
+- [Triaxial](https://indianapolis.geotechnicalengineering1.org/triaxial/)
+- [Vibrocompaction](https://indianapolis.geotechnicalengineering1.org/vibrocompaction/)
+
+## Contact
+- Website: https://indianapolis.geotechnicalengineering1.org/
+
+## About
+This site provides geotechnical engineering services in Indianapolis, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
